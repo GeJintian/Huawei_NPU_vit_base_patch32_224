@@ -16,5 +16,5 @@ This project has two parts: training and infer. Training is on Ascend310 and inf
 You can find my contribute in gitee, see: [vit_base gitee source code](https://gitee.com/ascend/modelzoo/tree/master/contrib/PyTorch/Research/cv/image_classification/vit_base_patch32_224).<br>
 
 #### About the model
-This model, vit_base_patch32_224, is a image classification algorithm from timm package. In this project, I didn't change the structure of this model. Therefore, it should be consistent with the [source code](https://github.com/rwightman/pytorch-image-models/blob/master/timm/models/vision_transformer.py).<br>
+This model, vit_base_patch32_224, is an image classification algorithm from timm package. In this project, I didn't change the structure of this model. Therefore, it should be consistent with the [source code](https://github.com/rwightman/pytorch-image-models/blob/master/timm/models/vision_transformer.py).<br>
 The article of this model is available at [AN IMAGE IS WORTH 16 X 16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf).
