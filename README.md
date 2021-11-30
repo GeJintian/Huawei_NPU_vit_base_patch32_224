@@ -1,0 +1,1 @@
+# Huawei_NPU_vit_base_patch32_224
